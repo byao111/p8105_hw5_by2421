@@ -1,0 +1,12 @@
+---
+title: "Homework 5"
+author: "Bowen Yao"
+output: github_document
+---
+
+```{r setup, message=FALSE}
+library(tidyverse)
+
+set.seed(1)
+```
+
